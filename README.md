@@ -70,7 +70,10 @@ Here a list of the files/folders that are there and their function.
 > 10.  all_reviews.tsv
 > 
 > It is a dataset that contains the first five reviews for each anime (actually about the first 500 characters of each review). Each line is associated to an anime and the reviews are tab-separated.
-
+>
+>11.  modello_trained
+>
+> folder that contains the trained model that has to be loaded to run sentiment analisys
  - **ADM-HW3.ipynb**
  > It is a python notebook that contains 5 main sections, one for the data collection, one for search engines.
 
